@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BMK01 MAP</string>
+    <string name="title_activity_maps">BMK01 MAP</string>
+    <string name="selectOb">Выберите нужный объект</string>
+    <string name="title_activity_detail">Map</string>
+    <string name="detail">Подробно…</string>
+    <string name="back">НАЗАД</string>
+    <string name="tMarker">tMarker</string>
+    <string name="mfile">mfile</string>
+</resources>

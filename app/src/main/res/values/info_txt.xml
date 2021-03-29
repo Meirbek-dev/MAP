@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="startMarker_id">m0</string>
+    <string name="startMarker_title">Естая 99</string>
+    <string name="startMarker_info">
+        <![CDATA[<b>Мой дом</b>]]>
+        </string>
+    <string name="startMarker_file" />
+
+    <!-- Bonjour -->
+
+    <string name="marker1_id">m1</string>
+    <string name="marker1_title">Bonjour</string>
+    <string name="marker1_txt_click">Салон красоты Bonjour</string>
+    <string name="marker1_info">
+        <![CDATA[
+        <b>Салон красоты Bonjour</b>
+        <BR>Телефон: +7 (7182) 50‒33‒33
+        <BR>Почта: bonjoursalon@mail.ru
+        ]]>
+        </string>
+    <string name="marker1_file">file:///android_asset/bonjour/index.html</string>
+
+    <!-- Тулпар -->
+
+    <string name="marker2_id">m2</string>
+    <string name="marker2_title">Тулпар</string>
+    <string name="marker2_txt_click">Торговый дом Тулпар</string>
+    <string name="marker2_info">
+        <![CDATA[
+        <b>Торговый дом Тулпар</b>
+        <BR>Телефон: +7 (7182) 33‒37‒57
+        ]]>
+        </string>
+    <string name="marker2_file">file:///android_asset/tulpar/index.html</string>
+
+    <!-- Halyk Bank -->
+
+    <string name="marker3_id">m3</string>
+    <string name="marker3_title">Halyk Bank</string>
+    <string name="marker3_txt_click">Народный банк Казахстана</string>
+    <string name="marker3_info">
+        <![CDATA[
+        <b>Народный банк Казахстана</b>
+        <BR>Телефон: +7 (7182) 70‒01‒49
+        <BR>Сайт: https://halykbank.kz/
+]]>
+        </string>
+    <string name="marker3_file">file:///android_asset/halyk_bank/index.html</string>
+
+    <!-- Small -->
+
+    <string name="marker4_id">m4</string>
+    <string name="marker4_title">Small</string>
+    <string name="marker4_txt_click">Сеть супермаркетов Small</string>
+    <string name="marker4_info">
+        <![CDATA[<b>Сеть супермаркетов Small</b>
+        <BR>Телефон: +7 (718) 290 36 33
+        <BR>Сайт: https://www.small.kz/ru/pavlodar
+        ]]>
+    </string>
+    <string name="marker4_file">file:///android_asset/small/index.html</string>
+
+    <!-- KFC -->
+
+    <string name="marker5_id">m5</string>
+    <string name="marker5_title">KFC</string>
+    <string name="marker5_txt_click">Ресторан быстрого питания KFC</string>
+    <string name="marker5_info">
+        <![CDATA[<b>Ресторан быстрого питания KFC</b>
+        <BR>Телефон: +7 (727) 334‒11‒56
+        <BR>Сайт: https://www.kfc-kazakhstan.kz/ru/main
+        ]]>
+        </string>
+    <string name="marker5_file">file:///android_asset/kfc/index.html</string>
+</resources>
