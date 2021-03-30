@@ -19,8 +19,8 @@
             <ImageButton
                 android:layout_width="68dp"
                 android:layout_height="50dp"
-                android:background="@color/white"
                 android:layout_marginEnd="5dp"
+                android:background="@color/white"
                 android:contentDescription="@string/marker1_title"
                 android:onClick="onClickButtonMarker"
                 android:scaleType="fitCenter"
@@ -42,9 +42,9 @@
 
             <ImageButton
                 android:layout_width="68dp"
-                android:background="@color/white"
                 android:layout_height="50dp"
                 android:layout_marginHorizontal="5dp"
+                android:background="@color/white"
                 android:contentDescription="@string/marker3_title"
                 android:onClick="onClickButtonMarker"
                 android:scaleType="fitCenter"
@@ -54,9 +54,9 @@
 
             <ImageButton
                 android:layout_width="66dp"
-                android:background="@color/white"
                 android:layout_height="50dp"
                 android:layout_marginHorizontal="5dp"
+                android:background="@color/white"
                 android:contentDescription="@string/marker4_title"
                 android:onClick="onClickButtonMarker"
                 android:scaleType="fitCenter"
